@@ -1,0 +1,24 @@
+body {
+    min-height: 2000px;
+}
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #e2edff;
+}
+
+#kus {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 10rem;
+}
+
+footer {
+    background-color: pink;
+    color: black;
+}
+
+span {
+    color: aqua;
+}
